@@ -1,0 +1,24 @@
+{
+ "src": "/home/claude/work/batch/1000397251.mp4",
+ "work": "/home/claude/work/batch/1000397251",
+ "fr": 1,
+ "sura": 40,
+ "name": "Ghafir",
+ "design": 1,
+ "basmala": false,
+ "verses": {
+  "40": {
+   "de": "Wer etwas Böses tut, dem wird nur gleichviel vergolten. Wer aber rechtschaffen handelt, ob Mann oder Frau, und dabei gläubig ist, jene werden dann in den (Paradies)garten eingehen, wo sie versorgt werden ohne Abrechnung.",
+   "clips": [
+    22729,
+    118,
+    21576,
+    2562,
+    2854,
+    25542,
+    4881,
+    847
+   ]
+  }
+ }
+}
