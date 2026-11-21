@@ -1,0 +1,22 @@
+{
+ "src": "/home/claude/work/batch/1000397263.mp4",
+ "work": "/home/claude/work/batch/1000397263",
+ "fr": 1,
+ "sura": 9,
+ "name": "At-Tawbah",
+ "design": 1,
+ "basmala": false,
+ "verses": {
+  "102": {
+   "de": "Und (es gibt) andere, die ihre Sünden bekennen. Sie haben eine rechtschaffene Tat mit einer anderen bösen vermischt. Vielleicht wird Allah ihre Reue annehmen. Gewiß, Allah ist Allvergebend und Barmherzig.",
+   "clips": [
+    22729,
+    118,
+    22728,
+    4040,
+    1086,
+    2562
+   ]
+  }
+ }
+}
