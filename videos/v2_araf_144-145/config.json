@@ -1,0 +1,28 @@
+{
+ "src": "/home/claude/work/batch/1000397248.mp4",
+ "work": "/home/claude/work/batch/1000397248",
+ "fr": 1,
+ "sura": 7,
+ "name": "Al-A'raf",
+ "design": 5,
+ "basmala": false,
+ "verses": {
+  "144": {
+   "de": "So nimm, was Ich dir gegeben habe, und gehöre zu den Dankbaren!",
+   "clips": [
+    4040,
+    4881,
+    1086
+   ]
+  },
+  "145": {
+   "de": "Und Wir schrieben ihm auf den Tafeln von allem eine Ermahnung und eine ausführliche Darlegung von allem.",
+   "clips": [
+    2186,
+    4396,
+    4366,
+    25542
+   ]
+  }
+ }
+}
