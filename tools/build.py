@@ -101,6 +101,8 @@ lst = []
 for i, s in enumerate(segs):
     d = round(s['b'] - s['a'], 3); f = f"{W}/seg/s{i:03d}.mp4"
     if d <= 0.02: continue
+    if os.environ.get('REUSE') and os.path.exists(f):
+        lst.append(f"file '{os.path.abspath(f)}'"); continue
     if s['clip'] is None:
         cmd = ['ffmpeg', '-v', 'error', '-y', '-f', 'lavfi', '-i', f'color=c=black:s=1080x1920:r=30:d={d}']; vf = 'format=yuv420p'
     else:
@@ -116,7 +118,7 @@ for i, s in enumerate(segs):
     lst.append(f"file '{os.path.abspath(f)}'")
 open(W + '/seg/list.txt', 'w').write('\n'.join(lst) + '\n')
 sh(['ffmpeg', '-v', 'error', '-y', '-f', 'concat', '-safe', '0', '-i', W + '/seg/list.txt',
-    '-i', '/home/claude/tools/grad.png', '-filter_complex', '[0][1]overlay,format=yuv420p',
+    '-i', '/home/claude/tools/grad5.png' if C['design'] == 5 else '/home/claude/tools/grad.png', '-filter_complex', '[0][1]overlay,format=yuv420p',
     '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '14', '-an', W + '/bg.mp4'])
 
 # ---------- subtitles ----------
