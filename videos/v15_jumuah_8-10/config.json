@@ -1,0 +1,36 @@
+{
+ "src": "/home/claude/work/batch/1000397266.mp4",
+ "work": "/home/claude/work/batch/1000397266",
+ "fr": 1,
+ "sura": 62,
+ "name": "Al-Jumu'ah",
+ "design": 1,
+ "basmala": false,
+ "verses": {
+  "8": {
+   "de": "Sag: Gewiß, der Tod, vor dem ihr flieht -, gewiß, er wird euch begegnen. Hierauf werdet ihr zu dem Kenner des Verborgenen und des Offenbaren zurückgebracht, und dann wird Er euch kundtun, was ihr zu tun pflegtet.",
+   "clips": [
+    4695,
+    118,
+    4148
+   ]
+  },
+  "9": {
+   "de": "O die ihr glaubt, wenn zum Gebet gerufen wird am Freitag, dann eilt zu Allahs Gedenken und laßt das Kaufgeschäft. Das ist besser für euch, wenn ihr wißt.",
+   "clips": [
+    1086,
+    26108,
+    4366
+   ]
+  },
+  "10": {
+   "de": "Wenn das Gebet beendet ist, dann breitet euch im Land aus und trachtet nach etwas von Allahs Huld. Und gedenkt Allahs viel, auf daß es euch wohl ergehen möge!",
+   "clips": [
+    4881,
+    2854,
+    51590,
+    1706
+   ]
+  }
+ }
+}
