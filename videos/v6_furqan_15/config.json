@@ -1,0 +1,21 @@
+{
+ "src": "/home/claude/work/batch/1000397252.mp4",
+ "work": "/home/claude/work/batch/1000397252",
+ "fr": 1,
+ "sura": 25,
+ "name": "Al-Furqan",
+ "design": 5,
+ "basmala": false,
+ "verses": {
+  "15": {
+   "de": "Sag: Ist das besser oder der Garten der Ewigkeit, der den Gottesfürchtigen versprochen ist? Er ist für sie Lohn und Reiseziel.",
+   "clips": [
+    4695,
+    572,
+    847,
+    51492,
+    2854
+   ]
+  }
+ }
+}
