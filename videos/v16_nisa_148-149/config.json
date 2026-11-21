@@ -1,0 +1,28 @@
+{
+ "src": "/home/claude/work/batch/1000397267.mp4",
+ "work": "/home/claude/work/batch/1000397267",
+ "fr": 1,
+ "sura": 4,
+ "name": "An-Nisa",
+ "design": 5,
+ "basmala": false,
+ "verses": {
+  "148": {
+   "de": "Allah liebt nicht den laut vernehmbaren Gebrauch von bösen Worten, außer durch jemanden, dem Unrecht zugefügt worden ist. Allah ist Allhörend und Allwissend.",
+   "clips": [
+    21576,
+    22729,
+    4148
+   ]
+  },
+  "149": {
+   "de": "Ob ihr etwas Gutes offenlegt, oder es verbergt, oder etwas Böses verzeiht - gewiß, Allah ist Allverzeihend und Allmächtig.",
+   "clips": [
+    568,
+    1086,
+    2562,
+    4366
+   ]
+  }
+ }
+}
