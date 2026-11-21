@@ -1,0 +1,28 @@
+{
+ "src": "/home/claude/work/batch/1000397249.mp4",
+ "work": "/home/claude/work/batch/1000397249",
+ "fr": 1,
+ "sura": 19,
+ "name": "Maryam",
+ "design": 1,
+ "basmala": false,
+ "verses": {
+  "4": {
+   "de": "(und) sagte: „Mein Herr, schwach sind mir die Knochen geworden, und in Altersgrauheit entfacht ist der Kopf. Und ich war im Bittgebet zu Dir, mein Herr, (noch) nie unglücklich.",
+   "clips": [
+    3311,
+    4396,
+    4695,
+    118
+   ]
+  },
+  "5": {
+   "de": "Gewiß, ich fürchte die Verwandten nach mir, und meine Frau ist unfruchtbar. So schenke mir von Dir aus einen nahen Verwandten,",
+   "clips": [
+    4149,
+    2562,
+    1891
+   ]
+  }
+ }
+}
