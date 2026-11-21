@@ -1,0 +1,59 @@
+{
+ "src": "/home/claude/work/batch/1000397269.mp4",
+ "work": "/home/claude/work/batch/1000397269",
+ "fr": 0.75,
+ "sura": 75,
+ "name": "Al-Qiyamah",
+ "design": 5,
+ "basmala": false,
+ "verses": {
+  "6": {
+   "de": "Er fragt: Wann wird bloß der Tag der Auferstehung sein?",
+   "clips": [
+    118
+   ]
+  },
+  "7": {
+   "de": "Wenn dann der Blick verwirrt ist",
+   "clips": [
+    4119
+   ]
+  },
+  "8": {
+   "de": "und der Mond sich verfinstert",
+   "clips": [
+    4080
+   ]
+  },
+  "9": {
+   "de": "und Sonne und Mond zusammengebracht werden,",
+   "clips": [
+    4695
+   ]
+  },
+  "10": {
+   "de": "wird der Mensch an jenem Tag sagen: Wohin soll die Flucht sein?",
+   "clips": [
+    21576
+   ]
+  },
+  "11": {
+   "de": "Keineswegs! (Es gibt) keine Zuflucht.",
+   "clips": [
+    4396
+   ]
+  },
+  "12": {
+   "de": "Zu deinem Herrn wird an jenem Tag der Weg zum Aufenthaltsort (führen).",
+   "clips": [
+    4148
+   ]
+  },
+  "13": {
+   "de": "Dem Menschen wird an jenem Tag kundgetan, was er vorausgeschickt und zurückgestellt hat.",
+   "clips": [
+    568
+   ]
+  }
+ }
+}
