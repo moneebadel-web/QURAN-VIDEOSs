@@ -1,0 +1,19 @@
+{
+ "src": "/home/claude/work/batch/1000397264.mp4",
+ "work": "/home/claude/work/batch/1000397264",
+ "fr": 1,
+ "sura": 10,
+ "name": "Yunus",
+ "design": 5,
+ "basmala": false,
+ "verses": {
+  "10": {
+   "de": "und ihr abschließender Ausruf: (Alles) Lob gehört Allah, dem Herrn der Weltenbewohner!",
+   "clips": [
+    4148,
+    4366,
+    4040
+   ]
+  }
+ }
+}
