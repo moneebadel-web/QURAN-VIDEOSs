@@ -1,0 +1,19 @@
+{
+ "src": "/home/claude/work/batch/1000397258.mp4",
+ "work": "/home/claude/work/batch/1000397258",
+ "fr": 1,
+ "sura": 17,
+ "name": "Al-Isra",
+ "design": 1,
+ "basmala": false,
+ "verses": {
+  "51": {
+   "de": "und sagen: ,,Wann wird das sein? Sag: „Vielleicht wird es bald sein.",
+   "clips": [
+    4695,
+    4080,
+    1610
+   ]
+  }
+ }
+}
