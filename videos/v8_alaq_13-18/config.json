@@ -1,0 +1,50 @@
+{
+ "src": "/home/claude/work/batch/1000397254.mp4",
+ "work": "/home/claude/work/batch/1000397254",
+ "fr": 1,
+ "sura": 96,
+ "name": "Al-'Alaq",
+ "design": 5,
+ "basmala": false,
+ "verses": {
+  "13": {
+   "de": "Siehst du! Wie (wäre es) wenn er (die Botschaft) für Lüge erklärt und sich abkehrt?",
+   "clips": [
+    4695
+   ]
+  },
+  "14": {
+   "de": "Weiß er denn nicht, daß Allah sieht?",
+   "clips": [
+    4148,
+    1610
+   ]
+  },
+  "15": {
+   "de": "Keineswegs! Wenn er nicht aufhört, werden Wir ihn ganz gewiß an der Stirnlocke packen und ziehen,",
+   "clips": [
+    21576,
+    570
+   ]
+  },
+  "16": {
+   "de": "einer Stirnlocke, einer lügnerischen, einer verfehlt handelnden.",
+   "clips": [
+    22729
+   ]
+  },
+  "17": {
+   "de": "So soll er doch seine Genossen rufen.",
+   "clips": [
+    118
+   ]
+  },
+  "18": {
+   "de": "Wir werden die (Höllen)wache rufen.",
+   "clips": [
+    4080,
+    4695
+   ]
+  }
+ }
+}
