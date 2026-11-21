@@ -1,0 +1,20 @@
+{
+ "src": "/home/claude/work/batch/1000397261.mp4",
+ "work": "/home/claude/work/batch/1000397261",
+ "fr": 1,
+ "sura": 39,
+ "name": "Az-Zumar",
+ "design": 5,
+ "basmala": false,
+ "verses": {
+  "61": {
+   "de": "Aber Allah errettet diejenigen, die gottesfürchtig waren, indem Er sie entrinnen läßt. Böses wird ihnen nicht widerfahren, noch werden sie traurig sein.",
+   "clips": [
+    1086,
+    51492,
+    2562,
+    568
+   ]
+  }
+ }
+}
