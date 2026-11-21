@@ -1,0 +1,36 @@
+{
+ "src": "/home/claude/work/batch/1000397253.mp4",
+ "work": "/home/claude/work/batch/1000397253",
+ "fr": 1,
+ "sura": 71,
+ "name": "Nuh",
+ "design": 1,
+ "basmala": false,
+ "verses": {
+  "10": {
+   "de": "Ich sagte: .Bittet euren Herrn um Vergebung - Er ist ja Allvergebend -,",
+   "clips": [
+    1086,
+    3394
+   ]
+  },
+  "11": {
+   "de": "so wird Er den Regen auf euch ergiebig (herab)senden",
+   "clips": [
+    22728,
+    21576,
+    28342
+   ]
+  },
+  "12": {
+   "de": "und euch mit Besitz und Söhnen unterstützen und für euch Gärten machen und für euch Bäche machen.",
+   "clips": [
+    4881,
+    2854,
+    51590,
+    3413,
+    572
+   ]
+  }
+ }
+}
