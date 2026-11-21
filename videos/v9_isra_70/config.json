@@ -1,0 +1,22 @@
+{
+ "src": "/home/claude/work/batch/1000397255.mp4",
+ "work": "/home/claude/work/batch/1000397255",
+ "fr": 1,
+ "sura": 17,
+ "name": "Al-Isra",
+ "design": 1,
+ "basmala": false,
+ "verses": {
+  "70": {
+   "de": "Und Wir haben ja die Kinder Adams geehrt; Wir haben sie auf dem Festland und auf dem Meer getragen und sie von den guten Dingen versorgt, und Wir haben sie vor vielen von denen, die Wir erschaffen haben, eindeutig bevorzugt.",
+   "clips": [
+    4366,
+    1925,
+    1086,
+    4881,
+    847,
+    1706
+   ]
+  }
+ }
+}
