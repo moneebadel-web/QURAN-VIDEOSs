@@ -1,0 +1,13 @@
+[
+ {"a":0.00,"b":4.80,"clip":4396,"ss":10.0,"x":2200,"fi":0,"fo":0,"why":"فما ظنكم – Nebel zieht über Berge"},
+ {"a":4.80,"b":6.50,"clip":4366,"ss":2.0,"x":1313,"fi":0,"fo":0,"why":"برب – weite Bergkette unter Wolken"},
+ {"a":6.50,"b":10.30,"clip":4283,"ss":3.0,"x":1900,"fi":0,"fo":0.25,"why":"العالمين – Zeitraffer, Wolken über den Alpen"},
+ {"a":10.30,"b":10.95,"clip":null,"why":"Pause – schwarz"},
+ {"a":10.95,"b":13.90,"clip":3350,"ss":1.0,"x":1890,"fi":0.25,"fo":0,"why":"فنظر نظرة – Blick hinauf zum Mond"},
+ {"a":13.90,"b":18.35,"clip":4148,"ss":4.0,"x":1313,"fi":0,"fo":0,"why":"في النجوم – Milchstraße"},
+ {"a":18.35,"b":20.15,"clip":50861,"ss":3.0,"x":1313,"fi":0,"fo":0,"why":"فقال – Wald im Morgennebel"},
+ {"a":20.15,"b":23.98,"clip":4695,"ss":10.0,"x":1313,"fi":0,"fo":0.25,"why":"إني سقيم – Licht erlischt über den Wolken"},
+ {"a":23.98,"b":24.55,"clip":null,"why":"Pause – schwarz"},
+ {"a":24.55,"b":27.30,"clip":1706,"ss":10.0,"x":660,"fi":0.25,"fo":0,"why":"فتولوا – Adler zieht davon"},
+ {"a":27.30,"b":32.80,"clip":4119,"ss":4.8,"x":1658,"fi":0,"fo":0.4,"why":"عنه مدبرين – Sonne geht unter"}
+]
